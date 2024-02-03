@@ -1,2 +1,2 @@
-# Classificacao_de_textos
-Classificador de textos usando rede neural simples
+# PLN
+Exercicio 1 , classificação de textos usando redes neurais.
